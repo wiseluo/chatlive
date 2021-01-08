@@ -1,0 +1,9 @@
+/vendor
+/Temp
+.idea
+/.vagrant
+/Static/upload
+/Log
+/Views
+dev.php
+/public/Static/upload
